@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/karam-7/interior-consultent-master/">
+    <a href="https://karam-7.github.io/interior-consultent-master/">
       Demo
     </a>
     <span> | </span>
