@@ -43,7 +43,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-- [figma.com] (https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge?node-id=1%3A2&t=N6YKNYhfhCdaecNy-0)
+- [figma.com] (https://www.figma.com/file/3cf83hHRBAGjG5EKPcG2bV/interior-consultant-challenge?node-id=0%3A1&t=ydOfSECEjMYp5AjG-0)
 
 ## Contact
 
